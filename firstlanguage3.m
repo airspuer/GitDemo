@@ -4,7 +4,7 @@
 int main(int argc, char * argv[]) {
     @autoreleasepool {
     	NSStringFromClass 
-    	NSInteger testNumber = 5;
+    	NSInteger testNumber = 6;
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
