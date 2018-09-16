@@ -3,8 +3,8 @@
 
 int main(int argc, char * argv[]) {
     @autoreleasepool {
-    	NSInteger testFloat = 6.0;
-        NSInteger testInterger = 7;
+    	NSInteger testFloat = 6;
+        NSInteger testInterger = 8;
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
